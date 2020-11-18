@@ -10,10 +10,10 @@ module.exports = {
   projectName: "documentation", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "My Site",
+      title: "Websiteshot",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Websiteshot",
+        src: "img/logo.png",
       },
       items: [
         {
@@ -24,7 +24,7 @@ module.exports = {
         },
         { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/websiteshot/documentation",
           label: "GitHub",
           position: "right",
         },
@@ -51,15 +51,11 @@ module.exports = {
           items: [
             {
               label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://stackoverflow.com/questions/tagged/websiteshot",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/websiteshot",
             },
           ],
         },
@@ -72,12 +68,12 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/websiteshot/documentation",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Websiteshot`,
     },
   },
   presets: [
@@ -88,13 +84,13 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+            "https://github.com/websiteshot/documentation/edit/main/website/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+            "https://github.com/websiteshot/documentation/edit/main/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
