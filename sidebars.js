@@ -1,6 +1,22 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+  docs: {
+    Websiteshot: ["websiteshot/introduction", "websiteshot/getting-started"],
+    Guides: ["guides/simple-script"],
+    API: [
+      "api/introduction",
+      {
+        Projects: ["api/projects/create-screenshot-job"],
+        Screenshots: ["api/screenshots/get-screenshots"],
+      },
+      {
+        Types: [
+          "api/types/job-result",
+          "api/types/login-parameter",
+          "api/types/meta",
+          "api/types/screenshot-parameter",
+          "api/types/url-config",
+        ],
+      },
+    ],
   },
 };
