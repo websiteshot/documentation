@@ -5,7 +5,7 @@ module.exports = {
   url: "https://websiteshot.github.io",
   baseUrl: "/documentation/",
   onBrokenLinks: "throw",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
   organizationName: "websiteshot", // Usually your GitHub org/user name.
   projectName: "documentation", // Usually your repo name.
   themeConfig: {
