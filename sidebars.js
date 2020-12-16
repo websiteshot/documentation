@@ -15,6 +15,8 @@ module.exports = {
           "api/types/meta",
           "api/types/screenshot-parameter",
           "api/types/url-config",
+          "api/types/shadow-options",
+          "api/types/color",
         ],
       },
     ],
