@@ -2,8 +2,10 @@ module.exports = {
   title: "Websiteshot",
   tagline:
     "Never spend time again to create awesome screenshots of your websites",
-  url: "https://websiteshot.github.io",
-  baseUrl: "/documentation/",
+  // url: "https://websiteshot.github.io",
+  // baseUrl: "/documentation/",
+  url: "https://docs.websiteshot.app",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/logo.png",
   organizationName: "websiteshot", // Usually your GitHub org/user name.
