@@ -1,4 +1,5 @@
 import React from "react";
+import Head from "@docusaurus/Head";
 import clsx from "clsx";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
@@ -94,6 +95,13 @@ function Home() {
           </section>
         )}
       </main>
+      <Head>
+        <script
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "4386072c15bf4295bf17358d68964a3d"}'
+        ></script>
+      </Head>
     </Layout>
   );
 }
