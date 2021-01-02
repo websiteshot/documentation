@@ -7,10 +7,12 @@ title: Create Screenshot Job
 
 ## Request Parameters
 
-| Parameter             | Type                                                  | Mandatory | Description              |
-| --------------------- | ----------------------------------------------------- | --------- | ------------------------ |
-| `screenshotParameter` | [ScreenshotParameter](../types/ScreenshotParameter.md) | yes       | Screenshot Configuration |
-| `urls`                | Array of [UrlConfig](../types/UrlConfig.md)            | yes       | URLs of Screenshots      |
+| Parameter             | Type                                                   | Mandatory | Description                                           |
+| --------------------- | ------------------------------------------------------ | --------- | ----------------------------------------------------- |
+| `screenshotParameter` | [ScreenshotParameter](../types/ScreenshotParameter.md) | yes       | Screenshot Configuration                              |
+| `urls`                | Array of [UrlConfig](../types/UrlConfig.md)            | yes       | URLs of Screenshots                                   |
+| `scheduledTs`         | number                                                 | no        | Timestamp in future when to schedule a Screenshot Job |
+| `scheduleDescription` | [ScheduleDescription](../types/ScheduleDescription.md) | no        | A description to schedule a Job                       |
 
 ### Example Request
 
