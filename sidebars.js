@@ -13,6 +13,7 @@ module.exports = {
       "api/types/login-parameter",
       "api/types/meta",
       "api/types/screenshot-parameter",
+      "api/types/schedule-description",
       "api/types/url-config",
       "api/types/effect-config",
       "api/types/blur-options",
