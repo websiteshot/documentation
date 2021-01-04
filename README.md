@@ -17,3 +17,7 @@
 </div>
 
 <hr />
+
+<!-- Screenshots
+https://github.com/websiteshot/simple-script#readme
+ -->
