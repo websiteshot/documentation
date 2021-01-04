@@ -1,7 +1,16 @@
 module.exports = {
   docs: {
-    Websiteshot: ["websiteshot/introduction", "websiteshot/getting-started"],
-    Guides: ["guides/simple-script"],
+    Websiteshot: [
+      "websiteshot/introduction",
+      "websiteshot/getting-started",
+      "websiteshot/console",
+      "websiteshot/whats-new",
+    ],
+    Guides: [
+      "guides/quickstart",
+      "guides/simple-script",
+      "guides/github-action",
+    ],
     API: [],
   },
   api: {
