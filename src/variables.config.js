@@ -51,4 +51,22 @@ export const image = {
       alt: `Simple Script`,
     },
   },
+  example: {
+    natural: {
+      src: `${variables.bucket}/example-natural.png`,
+      alt: `Example Natural`,
+    },
+    shadow: {
+      src: `${variables.bucket}/example-shadow.png`,
+      alt: `Example Shadow`,
+    },
+    stylemacosdark: {
+      src: `${variables.bucket}/example-macos-simple-dark.png`,
+      alt: `Example Style MacOS Simple Dark`,
+    },
+    combined: {
+      src: `${variables.bucket}/example-combined.png`,
+      alt: `Example Combined`,
+    },
+  },
 };

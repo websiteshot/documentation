@@ -10,7 +10,9 @@ module.exports = {
       "guides/quickstart",
       "guides/simple-script",
       "guides/github-action",
+      "guides/track-progress",
     ],
+    Examples: ["examples/examples"],
     API: [],
   },
   api: {
