@@ -3,7 +3,12 @@ id: getting-started
 title: Getting Started
 ---
 
+import { image } from "@site/src/variables.config";
+export const BucketImage = ({ prop }) => <img src={prop.src} alt={prop.alt} />;
+
 It doesn't take much to get started with Websiteshot. The only requirement is an [account](https://websiteshot.app).
+
+<BucketImage prop={image.app.login}></BucketImage>
 
 Screenshots are always assigned to a project. A project is the workspace or context in which you are currently working. After logging in for the first time, create your first project so that you can take screenshots. Learn more about the interface on the [Console page](./console.md).
 

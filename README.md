@@ -18,6 +18,23 @@
 
 <hr />
 
-<!-- Screenshots
-https://github.com/websiteshot/simple-script#readme
- -->
+## Variables
+
+[variables.config.js](./src/variables.config.js)
+
+## Images
+
+Images are referencing a S3 Bucket and can be easily embedded in the following way.
+
+Import:
+
+```js
+import { image } from "@site/src/variables.config";
+export const BucketImage = ({ prop }) => <img src={prop.src} alt={prop.alt} />;
+```
+
+Embed:
+
+```md
+<BucketImage prop={image.app.apikey}></BucketImage>
+```

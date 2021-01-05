@@ -3,7 +3,12 @@ id: simple-script
 title: Simple Script
 ---
 
+import { image } from "@site/src/variables.config";
+export const BucketImage = ({ prop }) => <img src={prop.src} alt={prop.alt} />;
+
 We have written a simple script so you can see how easy it is to create screenshots from the command line. You can find the script in [this repository](https://github.com/websiteshot/simple-script).
+
+<BucketImage prop={image.github.simplescript}></BucketImage>
 
 Clone the repository or copy the script into a shell file. You can start the script as follows:
 
