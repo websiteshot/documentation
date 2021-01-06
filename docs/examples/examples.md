@@ -10,7 +10,7 @@ export const BucketImage = ({ prop }) => <img src={prop.src} alt={prop.alt} />;
 
 <BucketImage prop={image.example.natural}></BucketImage>
 
-## Shadow
+## Effect: Shadow
 
 <BucketImage prop={image.example.shadow}></BucketImage>
 
@@ -21,3 +21,15 @@ export const BucketImage = ({ prop }) => <img src={prop.src} alt={prop.alt} />;
 ## Combined
 
 <BucketImage prop={image.example.combined}></BucketImage>
+
+## Effect: Resize
+
+<BucketImage prop={image.example.resize}></BucketImage>
+
+## Effect: Blur
+
+<BucketImage prop={image.example.blur}></BucketImage>
+
+## Area: Upper Half
+
+<BucketImage prop={image.example.areaupperhalf}></BucketImage>
