@@ -68,5 +68,17 @@ export const image = {
       src: `${variables.bucket}/example-combined.png`,
       alt: `Example Combined`,
     },
+    resize: {
+      src: `${variables.bucket}/example-resize.png`,
+      alt: `Example Resize`,
+    },
+    blur: {
+      src: `${variables.bucket}/example-blur.png`,
+      alt: `Example Blur`,
+    },
+    areaupperhalf: {
+      src: `${variables.bucket}/example-upperhalf.png`,
+      alt: `Example Area Upper Half`,
+    },
   },
 };
