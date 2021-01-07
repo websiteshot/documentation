@@ -6,7 +6,7 @@ title: Getting Started
 import { image } from "@site/src/variables.config";
 export const BucketImage = ({ prop }) => <img src={prop.src} alt={prop.alt} />;
 
-It doesn't take much to get started with Websiteshot. The only requirement is an [account](https://websiteshot.app).
+It doesn't take much to get started with Websiteshot. The only requirement is an [account](https://console.websiteshot.app).
 
 <BucketImage prop={image.app.login}></BucketImage>
 

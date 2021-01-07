@@ -38,7 +38,7 @@ title: Create Screenshot Job
   },
   "urls": [
     {
-      "url": "https://websiteshot.app/guarded",
+      "url": "https://console.websiteshot.app/guarded",
       "name": "Just a Test",
       "loadingTime": 15000
     }

@@ -26,5 +26,5 @@ jobs:
         env:
           PROJECT_ID: ${{ secrets.PROJECT_ID }}
           API_KEY: ${{ secrets.API_KEY }}
-          URLS: '[{"url": "https://websiteshot.app", "name": "Websiteshot"}]'
+          URLS: '[{"url": "https://console.websiteshot.app", "name": "Websiteshot"}]'
 ```

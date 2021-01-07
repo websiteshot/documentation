@@ -28,7 +28,7 @@ title: Get Screenshots
       "projectId": "02886ddf-2c12-40d6-aad8-5572028e88ee",
       "uuid": "02d25f25-d853-4272-925c-986892549a7a",
       "url": {
-        "url": "https://websiteshot.app/guarded",
+        "url": "https://console.websiteshot.app/guarded",
         "name": "Just a Test",
         "loadingTime": 15000
       },
