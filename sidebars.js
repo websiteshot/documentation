@@ -11,6 +11,7 @@ module.exports = {
       "guides/simple-script",
       "guides/github-action",
       "guides/track-progress",
+      "guides/social-share",
     ],
     Examples: ["examples/examples"],
     API: [],

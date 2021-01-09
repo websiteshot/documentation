@@ -81,4 +81,18 @@ export const image = {
       alt: `Example Area Upper Half`,
     },
   },
+  socialshare: {
+    template1: {
+      src: `${variables.bucket}/examples-social-share-template-1.png`,
+      alt: `Example Social Share Template 1`,
+    },
+    template2: {
+      src: `${variables.bucket}/examples-social-share-template-2.png`,
+      alt: `Example Social Share Template 2`,
+    },
+    template3: {
+      src: `${variables.bucket}/examples-social-share-template-3.png`,
+      alt: `Example Social Share Template 3`,
+    },
+  },
 };
