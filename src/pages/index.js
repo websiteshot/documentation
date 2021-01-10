@@ -9,7 +9,7 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: "Easy to Use",
-    imageUrl: "img/logo.png",
+    imageUrl: "img/home1.png",
     description: (
       <>
         Websiteshot was designed to be easily integrated into your workflows.
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: "Focus on What Matters",
-    imageUrl: "img/logo.png",
+    imageUrl: "img/home2.png",
     description: (
       <>
         Create your API Key and start to save time by never manually creating
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: "API First",
-    imageUrl: "img/logo.png",
+    imageUrl: "img/home3.png",
     description: (
       <>
         Of course there is a Console where you can manage your Screenshots. But
