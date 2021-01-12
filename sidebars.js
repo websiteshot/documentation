@@ -25,6 +25,7 @@ module.exports = {
     Screenshots: ["api/screenshots/get-screenshots"],
     Types: [
       "api/types/blur-options",
+      "api/types/click",
       "api/types/color",
       "api/types/effect-config",
       "api/types/job-result",
