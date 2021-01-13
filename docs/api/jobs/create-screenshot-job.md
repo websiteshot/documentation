@@ -1,6 +1,6 @@
 ---
 id: create-screenshot-job
-title: Create Screenshot Job
+title: Create
 ---
 
 `POST` /api/projects/:projectId
