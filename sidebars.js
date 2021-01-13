@@ -6,6 +6,14 @@ module.exports = {
       "websiteshot/console",
       "websiteshot/whats-new",
     ],
+    Features: [
+      "features/collections",
+      "features/templates",
+      "features/filters",
+      "features/scheduled-jobs",
+      "features/click-events",
+      "features/guarded-websites",
+    ],
     Guides: [
       "guides/quickstart",
       "guides/simple-script",
@@ -13,14 +21,23 @@ module.exports = {
       "guides/track-progress",
       "guides/social-share",
     ],
-    Examples: ["examples/examples"],
+    Examples: [
+      "examples/natural",
+      "examples/shadow",
+      "examples/macos-simple-dark",
+      "examples/combined-effects",
+      "examples/resize",
+      "examples/blur",
+      "examples/crop-area",
+    ],
     API: [],
   },
   api: {
     "Getting Started": ["api/introduction"],
-    Projects: [
-      "api/projects/create-screenshot-job",
-      "api/projects/get-screenshot-jobs",
+    Jobs: [
+      "api/jobs/create-screenshot-job",
+      "api/jobs/create-with-template",
+      "api/jobs/get-screenshot-jobs",
     ],
     Screenshots: ["api/screenshots/get-screenshots"],
     Types: [

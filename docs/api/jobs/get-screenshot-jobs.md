@@ -1,6 +1,6 @@
 ---
 id: get-screenshot-jobs
-title: Get Screenshot Jobs
+title: Get
 ---
 
 `GET` /api/projects/:projectId/screenshots/root
