@@ -19,6 +19,14 @@ Sometimes it makes more sense not to show the whole screen, but only an extract 
 
 If the screenshot is to be resized after generation, this can be done with this filter.
 
+## Margin
+
+Add a margin to your Screenshots for every side (top, bottom, left, right).
+
+## Rounded Corners
+
+If you want the corners of the screenshot to be rounded, this can be achieved with this filter.
+
 ## Shadows
 
 Shadows are everywhere on the web - they give elements a visual addition that can be very appealing. Shadows can be configured on the job via many parameters such as colors, transparency and much more.
