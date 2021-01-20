@@ -32,6 +32,11 @@ module.exports = {
         },
         { to: "blog", label: "Blog", position: "left" },
         {
+          href: "https://console.websiteshot.app",
+          label: "Console",
+          position: "right",
+        },
+        {
           href: "https://github.com/websiteshot/documentation",
           label: "GitHub",
           position: "right",
