@@ -88,6 +88,11 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Websiteshot`,
     },
+    algolia: {
+      apiKey: "5f6ad1f022ff85f0c2fa2b3177b9617a",
+      indexName: "websiteshot",
+      searchParameters: {}, // Optional (if provided by Algolia)
+    },
   },
   presets: [
     [
