@@ -9,6 +9,8 @@ You can find all new features here! If you have any **suggestions** or **feature
 
 - ✨ More Filters: Margin, Rounded Corners
 - 📄 Templates
+- 🏷 Tag Support
+- 🔍 Search Screenshot Jobs by Name and Tag
 - 🚀 Guides: Social Share Example
 
 ## December 2020
