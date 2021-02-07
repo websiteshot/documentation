@@ -7,7 +7,7 @@ module.exports = {
   url: "https://docs.websiteshot.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
-  favicon: "img/logo.png",
+  favicon: "https://websiteshot-docs.s3.eu-central-1.amazonaws.com/logopublicsmall.png",
   organizationName: "websiteshot", // Usually your GitHub org/user name.
   projectName: "documentation", // Usually your repo name.
   themeConfig: {
@@ -15,7 +15,7 @@ module.exports = {
       title: "Websiteshot",
       logo: {
         alt: "Websiteshot",
-        src: "img/logo.png",
+        src: "https://websiteshot-docs.s3.eu-central-1.amazonaws.com/logopublicsmall.png",
       },
       items: [
         {

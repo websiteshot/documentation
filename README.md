@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://websiteshot.app/">
-        <img src="./static/img/logo-mini.png">
+        <img src="./static/img/logopublicsmall.png" width="100">
     </a>
 </div>
 
