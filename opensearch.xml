@@ -4,7 +4,7 @@
   <ShortName>Websiteshot</ShortName>
   <Description>Search Websiteshot</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.websiteshot.app/img/logo.png</Image>
+  <Image width="16" height="16" type="image/x-icon">https://docs.websiteshot.app/https://websiteshot-docs.s3.eu-central-1.amazonaws.com/logopublicsmall.png</Image>
   <Url type="text/html" method="get" template="https://docs.websiteshot.app/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.websiteshot.app/opensearch.xml" />
   <moz:SearchForm>https://docs.websiteshot.app</moz:SearchForm>
