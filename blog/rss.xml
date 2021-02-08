@@ -4,15 +4,15 @@
         <title>Websiteshot Blog</title>
         <link>https://docs.websiteshot.app/blog</link>
         <description>Websiteshot Blog</description>
-        <lastBuildDate>Wed, 18 Nov 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
+            <title><![CDATA[Welcome to Websiteshot!]]></title>
             <link>https://docs.websiteshot.app/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to Websiteshot!]]></description>
+            <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The idea for this already exists since the first time I had to take screenshots of a website. There are one-time screenshots, to have an ad-hoc snapshot, and screenshots that need to be taken over and over again. And there are those moments when I get annoyed why I don't have screenshots of older versions of certain products I've worked on. It's always nice to look back and see how a product has evolved.]]></description>
         </item>
     </channel>
 </rss>

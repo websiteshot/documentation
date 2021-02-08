@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.websiteshot.app/blog</id>
     <title>Websiteshot Blog</title>
-    <updated>2020-11-18T00:00:00.000Z</updated>
+    <updated>2021-02-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.websiteshot.app/blog"/>
     <subtitle>Websiteshot Blog</subtitle>
     <icon>https://docs.websiteshot.app/https://websiteshot-docs.s3.eu-central-1.amazonaws.com/logopublicsmall.png</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
+        <title type="html"><![CDATA[Welcome to Websiteshot!]]></title>
         <id>welcome</id>
         <link href="https://docs.websiteshot.app/blog/welcome"/>
-        <updated>2020-11-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Websiteshot!]]></summary>
+        <updated>2021-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The idea for this already exists since the first time I had to take screenshots of a website. There are one-time screenshots, to have an ad-hoc snapshot, and screenshots that need to be taken over and over again. And there are those moments when I get annoyed why I don't have screenshots of older versions of certain products I've worked on. It's always nice to look back and see how a product has evolved.]]></summary>
     </entry>
 </feed>
