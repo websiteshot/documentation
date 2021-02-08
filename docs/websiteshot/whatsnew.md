@@ -5,6 +5,10 @@ title: What's new 🎁 🚀 🌈
 
 You can find all new features here! If you have any **suggestions** or **feature requests** please use our [community](https://github.com/websiteshot/community/discussions) and tell us what you are missing or what can be improved!
 
+## Roadmap
+
+- ➡ Webhooks: Active notification for finished Screenshots
+
 ## January 2021
 
 - ✨ More Filters: Margin, Rounded Corners
