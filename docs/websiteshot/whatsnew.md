@@ -7,8 +7,11 @@ You can find all new features here! If you have any **suggestions** or **feature
 
 ## Roadmap
 
-- ➡ Webhooks: Active notification for finished Screenshots
 - ➕ Chrome Extension
+
+## February 2021
+
+- ➡ Webhooks: Active notification for finished Screenshots
 
 ## January 2021
 
