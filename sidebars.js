@@ -13,6 +13,7 @@ module.exports = {
       "features/scheduled-jobs",
       "features/click-events",
       "features/guarded-websites",
+      "features/webhooks",
     ],
     Guides: [
       "guides/quickstart",
