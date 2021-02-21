@@ -28,6 +28,10 @@ export const image = {
       src: `${variables.bucket}/app-usage.png`,
       alt: `Usage`,
     },
+    webhooks: {
+      src: `${variables.bucket}/app-webhooks.png`,
+      alt: `Webhooks`,
+    },
   },
   github: {
     action: {

@@ -39,3 +39,9 @@ Several people can work on a project. You can manage the members of your project
 The easiest way to generate a screenshot is via this view. It is intended as a quick start to generate a first screenshot.
 
 <BucketImage prop={image.app.create}></BucketImage>
+
+## Webhooks
+
+Webhooks can be managed via the Webhooks View.
+
+<BucketImage prop={image.app.webhooks}></BucketImage>
